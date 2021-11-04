@@ -1,6 +1,6 @@
 # jao Minecraft Server - jaoafa 👋
 
-[English](README.md) | [日本語 (Japanese)](README-ja.md)
+[English](https://github.com/jaoafa/.github/blob/master/profile/README.md) | [日本語 (Japanese)](https://github.com/jaoafa/.github/blob/master/profile/README-ja.md)
 
 このオーガニゼーションは [jao Minecraft Server](https://jaoafa.com) の公式オーガニゼーションです！
 
