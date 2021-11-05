@@ -4,7 +4,7 @@
 
 このオーガニゼーションは [jao Minecraft Server](https://jaoafa.com) の公式オーガニゼーションです！
 
-このオーガニゼーション🤝はおじさん😪が管理💪する [jao 鯖🐟](https://jaoafa.com) っていう Minecraft 🎮のオーガニゼーションダヨ✋しらなかった？🤔マッタクもう😆😃☀ 🎵
+このオーガニゼーション🤝はおじさん😪が管理💪する [jao 鯖🐟](https://jaoafa.com) っていう Minecraft 🎮のオーガニゼーションダヨ✋しらなかった？🤔マッタクもう😆😃☀ 🎵 [元凶](https://twitter.com/Hirotaisou2012/status/1456400631502028803)
 
 ## Summary
 
