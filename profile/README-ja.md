@@ -4,6 +4,8 @@
 
 このオーガニゼーションは [jao Minecraft Server](https://jaoafa.com) の公式オーガニゼーションです！
 
+このオーガニゼーション🤝はおじさん😪が管理💪する [jao 鯖🐟](https://jaoafa.com) っていう Minecraft 🎮のオーガニゼーションダヨ✋しらなかった？🤔マッタクもう😆😃☀ 🎵
+
 ## Summary
 
 `jao Minecraft Server` は日本にある Minecraft のマルチプレイサーバです。  
