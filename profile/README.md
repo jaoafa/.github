@@ -4,6 +4,8 @@
 
 This organization is [jao Minecraft Server](https://jaoafa.com) Official Organization.
 
+Oh, come on‼️😆😃☀️ 🎵 This organization🤝is called "jao Minecraft🎮Server🐟" and it's managed💪by Ojisan✋😪 You didn't know?🤔 
+
 ## Summary
 
 `jao Minecraft Server` is a Minecraft multiplayer server in Japan.  
