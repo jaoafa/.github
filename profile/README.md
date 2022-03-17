@@ -23,4 +23,5 @@ For all other technical and system inquiries (bug reports, feature suggestions, 
 - For **non articles content** (footer/header, design, etc.) on the web site `jaoafa.com`: [Create an issue in `jaoafa/jaoweb`](https://github.com/jaoafa/jaoweb/issues/new/choose)
 - For **articles content** on the web site `jaoafa.com`: [Create an issue in `jaoafa/jaoweb-docs`](https://github.com/jaoafa/jaoweb-docs/issues/new/choose)
 - For the web site `users.jaoafa.com`: [Create an issue in `jaoafa/jaoweb-users`](https://github.com/jaoafa/jaoweb-users/issues/new/choose)
+- For the web site `bans.jaoafa.com`: [Create an issue in `jaoafa/jaoweb-bans`](https://github.com/jaoafa/jaoweb-bans/issues/new/choose)
 - If none of the above apply: [Create an issue in `jaoafa/jao-Minecraft-Server`](https://github.com/jaoafa/jao-Minecraft-Server/issues/new/choose)
