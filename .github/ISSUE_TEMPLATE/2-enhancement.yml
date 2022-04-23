@@ -12,6 +12,5 @@ body:
   attributes:
     label: 内容
     description: 新機能について、理由も併せて明確・簡潔に説明してください。またそれを希望する理由もお書きください。
-    render: markdown
   validations:
     required: true
