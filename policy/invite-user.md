@@ -20,7 +20,7 @@ jao Minecraft Server GitHub Organization では、本オーガニゼーション
 なお、これらの措置は原則事前の連絡を行いますが、ユーザに対して運営から連絡が取れない場合などは事前通告なく処分を行う場合があります。
 
 > **Note**  
-> 本オーガニゼーションでは、基本となる行動規範として [Contributor Covenant バージョン2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)を採用しています。実際の適用文書は[こちら](https://github.com/jaoafa/.github/blob/master/CODE_OF_CONDUCT.md)から閲覧できます。
+> 本オーガニゼーションでは、基本となる行動規範として [Contributor Covenant バージョン 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)を採用しています。実際の適用文書は[こちら](https://github.com/jaoafa/.github/blob/master/CODE_OF_CONDUCT.md)から閲覧できます。
 > なお、リポジトリごとに独自の行動規範を適用している場合があります。
 
 ## 権限の管理
@@ -45,4 +45,3 @@ jao Minecraft Server GitHub Organization では、本オーガニゼーション
 詳細については各リポジトリのコードオーナーや運営に問い合わせてください。
 
 なお、オーガニゼーションにおけるリポジトリの権限詳細については [こちら](https://docs.github.com/ja/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization) の公式ドキュメントが利用できます。
-
