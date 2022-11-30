@@ -1,6 +1,6 @@
 # ユーザ管理方針
 
-jao Minecraft Server GitHub Organization では、本オーガニゼーションに所属するユーザについて以下の通り管理します。
+[jao Minecraft Server GitHub Organization](https://github.com/jaoafa) では、本オーガニゼーションに所属するユーザについて以下の通り管理します。
 
 ## オーガニゼーションへの参加
 
