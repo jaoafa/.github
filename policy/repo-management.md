@@ -40,6 +40,3 @@ GitHub 公式ドキュメント [Licensing a repository](https://docs.github.com
 
 - [jao Minecraft Server のお問い合わせページ](https://jaoafa.com/support/inquiry/)
 - メールアドレス: `info@jaoafa.com`
-
-
-
