@@ -28,7 +28,7 @@
 
 コミュニティリーダーは、許容される行動の基準を明確にし、実施する責任があり、不適切、脅迫的、攻撃的、または有害と見なされる行動に応じて、適切で公正な是正措置を講じます。
 
-コミュニティリーダーは、コメント、コミット、コード、wikiの編集、問題、およびこの行動規範に沿っていないその他の貢献を削除、編集、または拒否する権利と責任を持ち、適切な場合はモデレーションの決定の理由を伝えます。
+コミュニティリーダーは、コメント、コミット、コード、wiki の編集、問題、およびこの行動規範に沿っていないその他の貢献を削除、編集、または拒否する権利と責任を持ち、適切な場合はモデレーションの決定の理由を伝えます。
 
 ## 適用範囲
 
@@ -79,10 +79,10 @@
 
 ## 帰属
 
-この行動規範は、 [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) で利用可能な [Contributor Covenant][homepage] バージョン2.0を基に作成されています。
+この行動規範は、 [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) で利用可能な [Contributor Covenant][homepage] バージョン 2.0 を基に作成されています。
 
 コミュニティへの影響ガイドラインは[Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity)に適合しています。
 
 [homepage]: https://www.contributor-covenant.org
 
-この行動規範に関する一般的な質問への回答については、 [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq) のFAQを参照してください。翻訳は [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations) で入手できます。
+この行動規範に関する一般的な質問への回答については、 [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq) の FAQ を参照してください。翻訳は [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations) で入手できます。
