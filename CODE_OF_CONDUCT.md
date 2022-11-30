@@ -75,8 +75,7 @@
 問題が発生した場合は次のいずれかの方法で報告して下さい。報告する際、「どのような行動をおこなっているか」・「どこで発生しているか」やページの URL リンク、スクリーンショットなどを添付してください。
 
 - [jao Minecraft Server のお問い合わせページ](https://jaoafa.com/support/inquiry/)
-- メールアドレス: `info@jaoafa.com`
-- 運営メンバーへの Twitter または Discord のダイレクトメッセージ
+- メールアドレス: `info@jaoafa.com` 
 
 ## 帰属
 
