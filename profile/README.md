@@ -4,6 +4,8 @@
 
 This organization is [jao Minecraft Server](https://jaoafa.com) Official Organization.
 
+The basic policy (user management and repository operation) for this organization can be found [here](https://github.com/jaoafa/.github/tree/master/policy).
+
 ## Summary
 
 `jao Minecraft Server` is a Minecraft multiplayer server in Japan.  
