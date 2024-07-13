@@ -9,8 +9,8 @@ _このコントリビューションガイドラインは jaoafa オーガニ�
 
 本プロジェクトにコントリビュートするには、以下の条件を満たす必要があります。
 
-- [jao Minecraft Server](https://jaoafa.com/) で活動したことがあり、運営方針等を理解していること
-- [jao Minecraft Server](https://jaoafa.com/) のサーバルールなどに違反しておらず、各種処罰を行われていないこと
+- [jao Community](https://jaoafa.com/) で活動したことがあり、運営方針等を理解していること
+- [jao Community](https://jaoafa.com/) のサーバルールなどに違反しておらず、各種処罰を行われていないこと
 
 ## Talk Language
 

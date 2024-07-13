@@ -1,13 +1,13 @@
 # リポジトリ管理方針
 
-[jao Minecraft Server GitHub Organization](https://github.com/jaoafa) では、本オーガニゼーションが包含するリポジトリについて以下の通り管理・運用します。
+[jao Community GitHub Organization](https://github.com/jaoafa) では、本オーガニゼーションが包含するリポジトリについて以下の通り管理・運用します。
 
 ## 作成条件
 
 本オーガニゼーション内にリポジトリを作成する場合、**以下の条件のすべてを満たさなければなりません**。
 
 - 作成者が本オーガニゼーションの参加条件を満たしていること（参加条件の詳細は [ユーザ管理方針](invite-user.md) を参照）
-- リポジトリの趣旨と内容が jao Minecraft Server に関連していること
+- リポジトリの趣旨と内容が jao Community に関連していること
 
 リポジトリの公開設定についての条件はありませんが、なるべく Public で作成されることを期待します。  
 また、Private で運用する場合は GitHub Actions などの利用時間に注意してください。詳しくは [About billing for GitHub Actions](https://docs.github.com/ja/billing/managing-billing-for-github-actions/about-billing-for-github-actions) を参照ください。
@@ -38,5 +38,5 @@ GitHub 公式ドキュメント [Licensing a repository](https://docs.github.com
 
 本オーガニゼーション内のリポジトリに関するお問い合わせについては以下の連絡手段をご利用ください。
 
-- [jao Minecraft Server のお問い合わせページ](https://jaoafa.com/support/inquiry/)
+- [jao Community のお問い合わせページ](https://jaoafa.com/support/inquiry/)
 - メールアドレス: `info@jaoafa.com`

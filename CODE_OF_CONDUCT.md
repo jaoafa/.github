@@ -74,12 +74,12 @@
 
 問題が発生した場合は次のいずれかの方法で報告して下さい。報告する際、「どのような行動をおこなっているか」・「どこで発生しているか」やページの URL リンク、スクリーンショットなどを添付してください。
 
-- [jao Minecraft Server のお問い合わせページ](https://jaoafa.com/support/inquiry/)
+- [jao Community のお問い合わせページ](https://jaoafa.com/support/inquiry/)
 - メールアドレス: `info@jaoafa.com`
 
 ## 帰属
 
-この行動規範は、 [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) で利用可能な [Contributor Covenant][homepage] バージョン 2.0 を基に作成されています。
+この行動規範は、[https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html) で利用可能な [Contributor Covenant][homepage] バージョン 2.0 を基に作成されています。
 
 コミュニティへの影響ガイドラインは[Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity)に適合しています。
 
